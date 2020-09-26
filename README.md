@@ -1,6 +1,6 @@
 # HandsOnML
 
-HandsOnMachineLearning 공부
+Hands On MachineLearning 공부
 
 Data Science Competition 연습
 
